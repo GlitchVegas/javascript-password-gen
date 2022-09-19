@@ -1,5 +1,8 @@
 # javascript password gen
 My week 3 assigment 
+
+Website https://glitchvegas.github.io/javascript-password-gen/
+
 I had to make an Javascript Password generator 
 
 So i made it by using the window prompt so when you click on the button it'll first prompt pick an number
